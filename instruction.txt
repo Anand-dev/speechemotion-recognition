@@ -1,0 +1,13 @@
+open powershell or command pmpt
+
+install python streamlit along with all the required libraries
+
+run stremlit application using 
+
+>>streamlit run main.py
+
+
+
+/////////////////////////////////////////////////////////////////////
+
+if you want to see the jupyter notebook open SER.ipynb using notebook jupyter
